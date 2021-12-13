@@ -1,5 +1,7 @@
 <img src="/Img.png" alt="developer-illustration" align="center"/>
 
+
+
 <h2 align="center">Hi there🖖🏻</h2>
 
 Let me introduce myself: my name is Federica, I live in Palermo and I have a bachelor's degree in Industrial Design.
